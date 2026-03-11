@@ -1,0 +1,501 @@
+user_id,recency,frequency,monetary,cluster,customer_segment
+1,55,8,379242.93,2,Segment 2: Occasional buyers
+2,25,10,391360.77,2,Segment 2: Occasional buyers
+3,25,8,572880.4400000001,2,Segment 2: Occasional buyers
+4,149,7,454034.22,0,Segment 3: Discount seekers / At-risk
+5,49,10,815819.12,1,Segment 1: High-value customers
+6,2,18,1143092.39,1,Segment 1: High-value customers
+7,73,9,855635.81,2,Segment 2: Occasional buyers
+8,17,17,1199235.76,1,Segment 1: High-value customers
+9,9,14,1090298.42,1,Segment 1: High-value customers
+10,9,7,361457.59,2,Segment 2: Occasional buyers
+11,22,11,831594.98,1,Segment 1: High-value customers
+12,4,5,319525.22,2,Segment 2: Occasional buyers
+13,220,11,705363.86,0,Segment 3: Discount seekers / At-risk
+14,34,7,236785.58,2,Segment 2: Occasional buyers
+15,85,10,711951.7899999999,2,Segment 2: Occasional buyers
+16,153,5,431364.54,0,Segment 3: Discount seekers / At-risk
+17,127,8,599860.39,2,Segment 2: Occasional buyers
+18,3,13,603250.61,1,Segment 1: High-value customers
+19,8,10,768094.98,2,Segment 2: Occasional buyers
+20,47,9,469768.18,2,Segment 2: Occasional buyers
+21,88,9,579224.42,2,Segment 2: Occasional buyers
+22,14,17,1491129.41,1,Segment 1: High-value customers
+23,38,12,643501.73,1,Segment 1: High-value customers
+24,54,4,297218.77,2,Segment 2: Occasional buyers
+25,48,8,659118.16,2,Segment 2: Occasional buyers
+26,51,11,633026.75,2,Segment 2: Occasional buyers
+27,17,11,837486.86,1,Segment 1: High-value customers
+28,2,11,693659.84,2,Segment 2: Occasional buyers
+29,37,10,533264.07,2,Segment 2: Occasional buyers
+30,130,8,670568.62,2,Segment 2: Occasional buyers
+31,28,11,608005.52,2,Segment 2: Occasional buyers
+32,172,6,283737.26,0,Segment 3: Discount seekers / At-risk
+33,5,7,445517.91,2,Segment 2: Occasional buyers
+34,12,10,702840.5900000001,2,Segment 2: Occasional buyers
+35,34,9,475788.52,2,Segment 2: Occasional buyers
+36,9,11,301935.92,2,Segment 2: Occasional buyers
+37,401,6,440860.81,0,Segment 3: Discount seekers / At-risk
+38,112,8,795443.58,2,Segment 2: Occasional buyers
+39,89,9,541229.57,2,Segment 2: Occasional buyers
+40,12,10,547952.86,2,Segment 2: Occasional buyers
+41,105,7,482667.9,2,Segment 2: Occasional buyers
+42,16,8,475120.83,2,Segment 2: Occasional buyers
+43,129,13,925080.43,1,Segment 1: High-value customers
+44,32,14,1144648.65,1,Segment 1: High-value customers
+45,57,12,801686.39,1,Segment 1: High-value customers
+46,8,9,329887.99,2,Segment 2: Occasional buyers
+47,6,13,622158.47,1,Segment 1: High-value customers
+48,98,12,594989.28,2,Segment 2: Occasional buyers
+49,71,12,870776.31,1,Segment 1: High-value customers
+50,234,8,460322.25,0,Segment 3: Discount seekers / At-risk
+51,49,19,1263943.48,1,Segment 1: High-value customers
+52,131,8,448212.86,2,Segment 2: Occasional buyers
+53,32,10,503963.71,2,Segment 2: Occasional buyers
+54,74,11,648280.67,2,Segment 2: Occasional buyers
+55,30,12,903181.94,1,Segment 1: High-value customers
+56,356,8,540001.88,0,Segment 3: Discount seekers / At-risk
+57,25,19,913115.26,1,Segment 1: High-value customers
+58,109,9,399532.15,2,Segment 2: Occasional buyers
+59,38,13,922454.35,1,Segment 1: High-value customers
+60,92,13,702037.14,1,Segment 1: High-value customers
+61,41,14,831399.14,1,Segment 1: High-value customers
+62,12,7,454866.24,2,Segment 2: Occasional buyers
+63,64,8,437559.49,2,Segment 2: Occasional buyers
+64,101,10,539854.8099999999,2,Segment 2: Occasional buyers
+65,119,9,616228.35,2,Segment 2: Occasional buyers
+66,2,7,519010.23,2,Segment 2: Occasional buyers
+67,38,15,842636.23,1,Segment 1: High-value customers
+68,226,10,455032.2,0,Segment 3: Discount seekers / At-risk
+69,198,7,452108.5500000001,0,Segment 3: Discount seekers / At-risk
+70,27,6,315490.26,2,Segment 2: Occasional buyers
+71,4,8,471760.14,2,Segment 2: Occasional buyers
+72,6,13,890198.0700000001,1,Segment 1: High-value customers
+73,5,10,1009830.16,1,Segment 1: High-value customers
+74,39,8,443669.24,2,Segment 2: Occasional buyers
+75,118,5,418247.53,2,Segment 2: Occasional buyers
+76,33,7,376340.84,2,Segment 2: Occasional buyers
+77,29,19,1023374.78,1,Segment 1: High-value customers
+78,40,10,636862.16,2,Segment 2: Occasional buyers
+79,34,9,488564.51,2,Segment 2: Occasional buyers
+80,142,11,913846.86,1,Segment 1: High-value customers
+81,60,5,370047.42,2,Segment 2: Occasional buyers
+82,10,20,1335654.11,1,Segment 1: High-value customers
+83,81,8,501477.51,2,Segment 2: Occasional buyers
+84,48,5,155761.13999999998,2,Segment 2: Occasional buyers
+85,19,12,469394.35,2,Segment 2: Occasional buyers
+86,195,7,407301.72,0,Segment 3: Discount seekers / At-risk
+87,52,12,916770.88,1,Segment 1: High-value customers
+88,234,9,839554.0,0,Segment 3: Discount seekers / At-risk
+89,71,7,250352.46,2,Segment 2: Occasional buyers
+90,33,10,547893.03,2,Segment 2: Occasional buyers
+91,50,6,528403.36,2,Segment 2: Occasional buyers
+92,16,12,450277.41,2,Segment 2: Occasional buyers
+93,227,9,396181.22,0,Segment 3: Discount seekers / At-risk
+94,253,6,260124.93,0,Segment 3: Discount seekers / At-risk
+95,21,9,329139.47,2,Segment 2: Occasional buyers
+96,95,11,554598.98,2,Segment 2: Occasional buyers
+97,79,12,759846.16,1,Segment 1: High-value customers
+98,36,9,478783.56,2,Segment 2: Occasional buyers
+99,199,8,387066.44,0,Segment 3: Discount seekers / At-risk
+100,10,19,1070893.37,1,Segment 1: High-value customers
+101,51,7,350398.31,2,Segment 2: Occasional buyers
+102,204,3,108708.39,0,Segment 3: Discount seekers / At-risk
+103,2,16,1152483.36,1,Segment 1: High-value customers
+104,295,3,127713.84,0,Segment 3: Discount seekers / At-risk
+105,50,10,583004.14,2,Segment 2: Occasional buyers
+106,18,13,790624.84,1,Segment 1: High-value customers
+107,18,6,489179.63,2,Segment 2: Occasional buyers
+108,66,12,532251.48,2,Segment 2: Occasional buyers
+109,57,9,437720.31,2,Segment 2: Occasional buyers
+110,112,9,623251.07,2,Segment 2: Occasional buyers
+111,288,5,403573.95,0,Segment 3: Discount seekers / At-risk
+112,24,12,899418.88,1,Segment 1: High-value customers
+113,8,14,918931.38,1,Segment 1: High-value customers
+114,17,14,987431.84,1,Segment 1: High-value customers
+115,4,17,1615366.26,1,Segment 1: High-value customers
+116,388,5,275814.27,0,Segment 3: Discount seekers / At-risk
+117,67,10,431597.85,2,Segment 2: Occasional buyers
+118,13,8,658227.23,2,Segment 2: Occasional buyers
+119,142,7,442828.59,0,Segment 3: Discount seekers / At-risk
+120,107,9,820099.44,2,Segment 2: Occasional buyers
+121,17,10,843738.79,1,Segment 1: High-value customers
+122,1,11,499305.53,2,Segment 2: Occasional buyers
+123,64,12,791644.84,1,Segment 1: High-value customers
+124,101,8,815678.6599999999,2,Segment 2: Occasional buyers
+125,24,11,676398.8,2,Segment 2: Occasional buyers
+126,63,8,499155.12,2,Segment 2: Occasional buyers
+127,31,9,595639.54,2,Segment 2: Occasional buyers
+128,263,8,406566.63,0,Segment 3: Discount seekers / At-risk
+129,9,9,761524.5800000001,2,Segment 2: Occasional buyers
+130,23,13,685864.42,1,Segment 1: High-value customers
+131,14,6,399439.67,2,Segment 2: Occasional buyers
+132,235,6,358398.54,0,Segment 3: Discount seekers / At-risk
+133,59,9,535695.0800000001,2,Segment 2: Occasional buyers
+134,62,7,449203.72,2,Segment 2: Occasional buyers
+135,391,4,339608.25,0,Segment 3: Discount seekers / At-risk
+136,39,8,302696.69,2,Segment 2: Occasional buyers
+137,51,8,283033.0,2,Segment 2: Occasional buyers
+138,4,10,666676.42,2,Segment 2: Occasional buyers
+139,124,11,932277.97,1,Segment 1: High-value customers
+140,4,11,596212.37,2,Segment 2: Occasional buyers
+141,17,11,741816.79,1,Segment 1: High-value customers
+142,17,9,566520.16,2,Segment 2: Occasional buyers
+143,148,7,587521.6900000001,2,Segment 2: Occasional buyers
+144,271,7,439782.1,0,Segment 3: Discount seekers / At-risk
+145,322,7,432660.72,0,Segment 3: Discount seekers / At-risk
+146,133,11,431825.3,2,Segment 2: Occasional buyers
+147,71,13,752222.74,1,Segment 1: High-value customers
+148,69,11,522147.87,2,Segment 2: Occasional buyers
+149,96,8,686319.05,2,Segment 2: Occasional buyers
+150,98,11,612230.03,2,Segment 2: Occasional buyers
+151,50,11,770838.01,1,Segment 1: High-value customers
+152,167,8,496884.45,0,Segment 3: Discount seekers / At-risk
+153,190,3,181203.97,0,Segment 3: Discount seekers / At-risk
+154,32,11,702813.15,2,Segment 2: Occasional buyers
+155,62,13,711558.2999999999,1,Segment 1: High-value customers
+156,57,9,644704.84,2,Segment 2: Occasional buyers
+157,61,10,716888.35,2,Segment 2: Occasional buyers
+158,114,8,429125.55,2,Segment 2: Occasional buyers
+159,1,11,572533.25,2,Segment 2: Occasional buyers
+160,24,9,587631.25,2,Segment 2: Occasional buyers
+161,12,12,798923.16,1,Segment 1: High-value customers
+162,10,10,751574.24,2,Segment 2: Occasional buyers
+163,34,9,421933.98,2,Segment 2: Occasional buyers
+164,15,12,713618.42,1,Segment 1: High-value customers
+165,28,13,950954.56,1,Segment 1: High-value customers
+166,22,14,939241.08,1,Segment 1: High-value customers
+167,45,13,993070.24,1,Segment 1: High-value customers
+168,47,17,1078376.31,1,Segment 1: High-value customers
+169,126,14,1109084.48,1,Segment 1: High-value customers
+170,33,12,891928.2,1,Segment 1: High-value customers
+171,50,10,554082.29,2,Segment 2: Occasional buyers
+172,81,13,767820.27,1,Segment 1: High-value customers
+173,125,8,317042.31,2,Segment 2: Occasional buyers
+174,338,9,604415.13,0,Segment 3: Discount seekers / At-risk
+175,9,7,400431.61,2,Segment 2: Occasional buyers
+176,118,7,354833.71,2,Segment 2: Occasional buyers
+177,31,9,796387.37,2,Segment 2: Occasional buyers
+178,77,9,381234.66,2,Segment 2: Occasional buyers
+179,4,13,707807.6699999999,1,Segment 1: High-value customers
+180,259,8,483083.03,0,Segment 3: Discount seekers / At-risk
+181,48,12,963751.69,1,Segment 1: High-value customers
+182,15,7,407277.01,2,Segment 2: Occasional buyers
+183,19,16,620542.64,1,Segment 1: High-value customers
+184,45,10,566591.92,2,Segment 2: Occasional buyers
+185,37,11,719681.38,1,Segment 1: High-value customers
+186,16,9,834291.65,2,Segment 2: Occasional buyers
+187,54,13,801082.64,1,Segment 1: High-value customers
+188,65,6,435071.58,2,Segment 2: Occasional buyers
+189,25,7,238946.27,2,Segment 2: Occasional buyers
+190,18,17,807620.85,1,Segment 1: High-value customers
+191,274,7,317777.3,0,Segment 3: Discount seekers / At-risk
+192,69,12,624946.04,2,Segment 2: Occasional buyers
+193,2,13,814852.7,1,Segment 1: High-value customers
+194,19,9,380371.77,2,Segment 2: Occasional buyers
+195,24,13,938100.64,1,Segment 1: High-value customers
+196,10,11,548841.52,2,Segment 2: Occasional buyers
+197,9,13,776584.45,1,Segment 1: High-value customers
+198,23,14,666219.07,1,Segment 1: High-value customers
+199,238,5,184850.56,0,Segment 3: Discount seekers / At-risk
+200,236,7,523258.22,0,Segment 3: Discount seekers / At-risk
+201,9,16,1067365.6,1,Segment 1: High-value customers
+202,143,9,437524.48,2,Segment 2: Occasional buyers
+203,194,7,365079.62,0,Segment 3: Discount seekers / At-risk
+204,162,5,151478.1,0,Segment 3: Discount seekers / At-risk
+205,31,7,317697.98,2,Segment 2: Occasional buyers
+206,195,7,458078.26,0,Segment 3: Discount seekers / At-risk
+207,95,14,881969.67,1,Segment 1: High-value customers
+208,40,17,1139848.14,1,Segment 1: High-value customers
+209,10,10,546401.09,2,Segment 2: Occasional buyers
+210,119,9,539843.8,2,Segment 2: Occasional buyers
+211,87,12,1024376.02,1,Segment 1: High-value customers
+212,20,12,671246.84,1,Segment 1: High-value customers
+213,158,6,570118.87,0,Segment 3: Discount seekers / At-risk
+214,197,5,269636.93,0,Segment 3: Discount seekers / At-risk
+215,1,6,292864.95,2,Segment 2: Occasional buyers
+216,23,13,822605.88,1,Segment 1: High-value customers
+217,387,7,317947.84,0,Segment 3: Discount seekers / At-risk
+218,84,14,798265.5700000001,1,Segment 1: High-value customers
+219,171,10,618515.68,0,Segment 3: Discount seekers / At-risk
+220,72,10,607618.14,2,Segment 2: Occasional buyers
+221,50,10,848188.29,1,Segment 1: High-value customers
+222,43,11,1010454.32,1,Segment 1: High-value customers
+223,130,15,971517.47,1,Segment 1: High-value customers
+224,277,6,119780.64,0,Segment 3: Discount seekers / At-risk
+225,1,13,827213.66,1,Segment 1: High-value customers
+226,79,11,513819.14,2,Segment 2: Occasional buyers
+227,192,9,765136.5700000001,0,Segment 3: Discount seekers / At-risk
+228,132,11,586631.95,2,Segment 2: Occasional buyers
+229,323,12,950689.12,0,Segment 3: Discount seekers / At-risk
+230,14,7,413789.84,2,Segment 2: Occasional buyers
+231,24,6,353325.28,2,Segment 2: Occasional buyers
+232,29,12,557250.59,2,Segment 2: Occasional buyers
+233,6,10,952042.53,1,Segment 1: High-value customers
+234,3,7,575781.94,2,Segment 2: Occasional buyers
+235,139,13,912876.26,1,Segment 1: High-value customers
+236,41,8,513483.93,2,Segment 2: Occasional buyers
+237,183,8,536464.65,0,Segment 3: Discount seekers / At-risk
+238,105,8,626885.97,2,Segment 2: Occasional buyers
+239,28,14,1063933.71,1,Segment 1: High-value customers
+240,25,9,604464.3200000001,2,Segment 2: Occasional buyers
+241,76,11,667517.07,2,Segment 2: Occasional buyers
+242,42,8,416555.83,2,Segment 2: Occasional buyers
+243,51,11,610134.1,2,Segment 2: Occasional buyers
+244,45,10,623563.6000000001,2,Segment 2: Occasional buyers
+245,105,11,780607.41,1,Segment 1: High-value customers
+246,100,8,509086.57,2,Segment 2: Occasional buyers
+247,39,9,736147.4099999999,2,Segment 2: Occasional buyers
+248,16,16,752361.8,1,Segment 1: High-value customers
+249,276,9,740809.65,0,Segment 3: Discount seekers / At-risk
+250,88,12,962015.68,1,Segment 1: High-value customers
+251,144,14,847034.4099999999,1,Segment 1: High-value customers
+252,116,10,725451.52,2,Segment 2: Occasional buyers
+253,11,21,1203041.56,1,Segment 1: High-value customers
+254,38,12,748586.11,1,Segment 1: High-value customers
+255,78,12,508448.78,2,Segment 2: Occasional buyers
+256,33,10,554367.92,2,Segment 2: Occasional buyers
+257,77,8,406919.61,2,Segment 2: Occasional buyers
+258,48,9,516080.37,2,Segment 2: Occasional buyers
+259,7,10,498910.86,2,Segment 2: Occasional buyers
+260,122,5,501237.06,2,Segment 2: Occasional buyers
+261,14,12,747450.6,1,Segment 1: High-value customers
+262,89,10,749972.56,2,Segment 2: Occasional buyers
+263,136,4,229252.86,0,Segment 3: Discount seekers / At-risk
+264,105,10,371027.37,2,Segment 2: Occasional buyers
+265,18,7,388531.1,2,Segment 2: Occasional buyers
+266,47,10,773065.61,2,Segment 2: Occasional buyers
+267,29,15,948512.65,1,Segment 1: High-value customers
+268,85,12,667232.9,1,Segment 1: High-value customers
+269,38,9,510718.22,2,Segment 2: Occasional buyers
+270,127,9,565879.36,2,Segment 2: Occasional buyers
+271,37,2,186744.89,2,Segment 2: Occasional buyers
+272,182,3,318860.7,0,Segment 3: Discount seekers / At-risk
+273,34,10,878804.03,1,Segment 1: High-value customers
+274,60,11,765206.1000000001,1,Segment 1: High-value customers
+275,32,8,623023.5800000001,2,Segment 2: Occasional buyers
+276,41,14,945811.51,1,Segment 1: High-value customers
+277,42,10,423468.25,2,Segment 2: Occasional buyers
+278,104,7,684895.59,2,Segment 2: Occasional buyers
+279,50,8,526828.57,2,Segment 2: Occasional buyers
+280,97,7,459099.25,2,Segment 2: Occasional buyers
+281,96,10,1020958.95,1,Segment 1: High-value customers
+282,212,5,272310.22,0,Segment 3: Discount seekers / At-risk
+283,44,13,699776.83,1,Segment 1: High-value customers
+284,27,10,1109017.8,1,Segment 1: High-value customers
+285,68,15,744428.1,1,Segment 1: High-value customers
+286,30,7,604540.79,2,Segment 2: Occasional buyers
+287,17,12,617716.42,2,Segment 2: Occasional buyers
+288,18,11,406999.23,2,Segment 2: Occasional buyers
+289,197,12,928241.97,1,Segment 1: High-value customers
+290,13,8,405643.3,2,Segment 2: Occasional buyers
+291,24,8,687175.0,2,Segment 2: Occasional buyers
+292,38,8,318890.0,2,Segment 2: Occasional buyers
+293,22,6,452987.38,2,Segment 2: Occasional buyers
+294,52,10,644510.18,2,Segment 2: Occasional buyers
+295,119,6,410510.47,2,Segment 2: Occasional buyers
+296,86,9,474761.43,2,Segment 2: Occasional buyers
+297,92,12,929225.71,1,Segment 1: High-value customers
+298,7,6,590294.11,2,Segment 2: Occasional buyers
+299,92,9,670664.11,2,Segment 2: Occasional buyers
+300,7,12,859664.56,1,Segment 1: High-value customers
+301,102,9,531726.33,2,Segment 2: Occasional buyers
+302,171,8,622520.36,0,Segment 3: Discount seekers / At-risk
+303,10,10,526973.74,2,Segment 2: Occasional buyers
+304,85,9,479986.49,2,Segment 2: Occasional buyers
+305,160,10,567370.16,2,Segment 2: Occasional buyers
+306,50,6,253179.65,2,Segment 2: Occasional buyers
+307,135,14,895648.26,1,Segment 1: High-value customers
+308,24,12,637702.47,1,Segment 1: High-value customers
+309,55,6,398696.38,2,Segment 2: Occasional buyers
+310,155,11,816948.77,1,Segment 1: High-value customers
+311,82,5,206706.16,2,Segment 2: Occasional buyers
+312,252,9,547298.3300000001,0,Segment 3: Discount seekers / At-risk
+313,94,13,740841.84,1,Segment 1: High-value customers
+314,62,12,567702.1799999999,2,Segment 2: Occasional buyers
+315,51,17,886684.43,1,Segment 1: High-value customers
+316,30,9,672270.01,2,Segment 2: Occasional buyers
+317,7,8,611313.4400000001,2,Segment 2: Occasional buyers
+318,171,11,515655.07,0,Segment 3: Discount seekers / At-risk
+319,10,7,344792.3,2,Segment 2: Occasional buyers
+320,16,16,697941.45,1,Segment 1: High-value customers
+321,38,10,667858.75,2,Segment 2: Occasional buyers
+322,20,13,1088610.51,1,Segment 1: High-value customers
+323,217,9,486528.3000000001,0,Segment 3: Discount seekers / At-risk
+324,48,13,804852.23,1,Segment 1: High-value customers
+325,85,7,429620.41,2,Segment 2: Occasional buyers
+326,59,13,693944.25,1,Segment 1: High-value customers
+327,11,13,484040.75,2,Segment 2: Occasional buyers
+328,13,16,1154247.47,1,Segment 1: High-value customers
+329,46,9,548408.64,2,Segment 2: Occasional buyers
+330,83,11,818051.83,1,Segment 1: High-value customers
+331,113,12,680864.59,1,Segment 1: High-value customers
+332,189,5,392760.59,0,Segment 3: Discount seekers / At-risk
+333,307,4,404809.21,0,Segment 3: Discount seekers / At-risk
+334,89,9,408348.36,2,Segment 2: Occasional buyers
+335,72,12,861462.15,1,Segment 1: High-value customers
+336,26,15,1105240.73,1,Segment 1: High-value customers
+337,83,12,772799.37,1,Segment 1: High-value customers
+338,87,9,637913.7,2,Segment 2: Occasional buyers
+339,4,13,709049.4400000001,1,Segment 1: High-value customers
+340,23,11,961304.62,1,Segment 1: High-value customers
+341,74,16,1205115.21,1,Segment 1: High-value customers
+342,36,15,1249951.34,1,Segment 1: High-value customers
+343,79,9,277519.62,2,Segment 2: Occasional buyers
+344,32,10,755630.79,2,Segment 2: Occasional buyers
+345,43,9,551134.99,2,Segment 2: Occasional buyers
+346,103,16,1294170.61,1,Segment 1: High-value customers
+347,96,10,697756.83,2,Segment 2: Occasional buyers
+348,294,7,333699.08,0,Segment 3: Discount seekers / At-risk
+349,2,11,731721.33,1,Segment 1: High-value customers
+350,3,12,600076.91,2,Segment 2: Occasional buyers
+351,73,7,250512.22,2,Segment 2: Occasional buyers
+352,118,12,722605.77,1,Segment 1: High-value customers
+353,149,9,592136.99,2,Segment 2: Occasional buyers
+354,11,8,392092.3,2,Segment 2: Occasional buyers
+355,57,17,913731.26,1,Segment 1: High-value customers
+356,7,19,1331315.32,1,Segment 1: High-value customers
+357,65,14,827951.9299999999,1,Segment 1: High-value customers
+358,4,18,1344746.0,1,Segment 1: High-value customers
+359,22,11,671281.68,2,Segment 2: Occasional buyers
+360,29,12,704848.57,1,Segment 1: High-value customers
+361,6,12,732977.09,1,Segment 1: High-value customers
+362,53,10,680459.87,2,Segment 2: Occasional buyers
+363,3,11,747698.51,1,Segment 1: High-value customers
+364,116,14,979251.98,1,Segment 1: High-value customers
+365,23,9,680590.1499999999,2,Segment 2: Occasional buyers
+366,35,12,537585.27,2,Segment 2: Occasional buyers
+367,13,11,537090.15,2,Segment 2: Occasional buyers
+368,295,6,425818.13,0,Segment 3: Discount seekers / At-risk
+369,210,6,392690.37,0,Segment 3: Discount seekers / At-risk
+370,141,8,506518.23,2,Segment 2: Occasional buyers
+371,166,10,711270.84,2,Segment 2: Occasional buyers
+372,120,13,745627.4,1,Segment 1: High-value customers
+373,51,7,606364.95,2,Segment 2: Occasional buyers
+374,27,12,576633.25,2,Segment 2: Occasional buyers
+375,66,9,628912.51,2,Segment 2: Occasional buyers
+376,225,11,864198.2,0,Segment 3: Discount seekers / At-risk
+377,41,6,456181.24,2,Segment 2: Occasional buyers
+378,118,7,527524.8,2,Segment 2: Occasional buyers
+379,4,7,483174.23,2,Segment 2: Occasional buyers
+380,71,11,502166.82,2,Segment 2: Occasional buyers
+381,76,14,625111.19,1,Segment 1: High-value customers
+382,42,11,963364.76,1,Segment 1: High-value customers
+383,4,13,813816.09,1,Segment 1: High-value customers
+384,34,13,694464.4299999999,1,Segment 1: High-value customers
+385,36,12,730940.37,1,Segment 1: High-value customers
+386,7,10,681771.37,2,Segment 2: Occasional buyers
+387,28,8,751215.96,2,Segment 2: Occasional buyers
+388,1,16,856768.63,1,Segment 1: High-value customers
+389,28,11,814360.29,1,Segment 1: High-value customers
+390,72,7,304622.3,2,Segment 2: Occasional buyers
+391,52,12,751663.11,1,Segment 1: High-value customers
+392,70,10,683432.85,2,Segment 2: Occasional buyers
+393,38,13,732328.0900000001,1,Segment 1: High-value customers
+394,57,12,514276.72,2,Segment 2: Occasional buyers
+395,159,6,294108.37,0,Segment 3: Discount seekers / At-risk
+396,90,7,298652.94999999995,2,Segment 2: Occasional buyers
+397,179,13,720867.42,1,Segment 1: High-value customers
+398,119,9,554296.65,2,Segment 2: Occasional buyers
+399,143,9,289003.2,2,Segment 2: Occasional buyers
+400,134,18,1281469.52,1,Segment 1: High-value customers
+401,142,13,744371.11,1,Segment 1: High-value customers
+402,28,11,452505.41,2,Segment 2: Occasional buyers
+403,273,7,516787.15,0,Segment 3: Discount seekers / At-risk
+404,49,8,277263.64,2,Segment 2: Occasional buyers
+405,333,10,788261.62,0,Segment 3: Discount seekers / At-risk
+406,57,5,307412.42,2,Segment 2: Occasional buyers
+407,100,10,764207.04,2,Segment 2: Occasional buyers
+408,22,10,469455.11,2,Segment 2: Occasional buyers
+409,110,9,608380.0700000001,2,Segment 2: Occasional buyers
+410,295,5,433454.71,0,Segment 3: Discount seekers / At-risk
+411,13,11,756339.88,1,Segment 1: High-value customers
+412,43,9,775550.27,2,Segment 2: Occasional buyers
+413,129,11,709620.93,2,Segment 2: Occasional buyers
+414,68,12,701205.29,1,Segment 1: High-value customers
+415,1,14,766468.49,1,Segment 1: High-value customers
+416,18,10,541461.38,2,Segment 2: Occasional buyers
+417,172,7,496671.97,0,Segment 3: Discount seekers / At-risk
+418,20,10,752406.33,2,Segment 2: Occasional buyers
+419,35,13,713302.5,1,Segment 1: High-value customers
+420,10,9,312293.61,2,Segment 2: Occasional buyers
+421,249,4,253471.82,0,Segment 3: Discount seekers / At-risk
+422,15,8,718061.15,2,Segment 2: Occasional buyers
+423,105,11,556168.14,2,Segment 2: Occasional buyers
+424,264,8,444674.82,0,Segment 3: Discount seekers / At-risk
+425,20,7,429362.61,2,Segment 2: Occasional buyers
+426,16,12,815118.74,1,Segment 1: High-value customers
+427,42,9,530677.82,2,Segment 2: Occasional buyers
+428,27,12,515421.98,2,Segment 2: Occasional buyers
+429,213,18,941001.67,1,Segment 1: High-value customers
+430,6,11,677275.31,2,Segment 2: Occasional buyers
+431,51,8,708203.0,2,Segment 2: Occasional buyers
+432,106,11,578321.53,2,Segment 2: Occasional buyers
+433,121,8,479568.83,2,Segment 2: Occasional buyers
+434,115,6,378155.74,2,Segment 2: Occasional buyers
+435,38,8,543766.3400000001,2,Segment 2: Occasional buyers
+436,12,10,490111.14,2,Segment 2: Occasional buyers
+437,11,6,333063.56,2,Segment 2: Occasional buyers
+438,11,10,630050.24,2,Segment 2: Occasional buyers
+439,215,10,561620.47,0,Segment 3: Discount seekers / At-risk
+440,188,6,341082.51,0,Segment 3: Discount seekers / At-risk
+441,21,13,1295363.0,1,Segment 1: High-value customers
+442,26,11,571250.6,2,Segment 2: Occasional buyers
+443,3,10,762065.51,2,Segment 2: Occasional buyers
+444,87,8,566977.35,2,Segment 2: Occasional buyers
+445,95,12,939972.09,1,Segment 1: High-value customers
+446,112,12,868107.3099999999,1,Segment 1: High-value customers
+447,16,8,624610.96,2,Segment 2: Occasional buyers
+448,126,12,793271.4500000001,1,Segment 1: High-value customers
+449,201,8,681976.89,0,Segment 3: Discount seekers / At-risk
+450,338,11,612015.8,0,Segment 3: Discount seekers / At-risk
+451,111,7,379483.48,2,Segment 2: Occasional buyers
+452,8,7,381483.51,2,Segment 2: Occasional buyers
+453,17,8,588241.29,2,Segment 2: Occasional buyers
+454,103,11,739954.91,1,Segment 1: High-value customers
+455,202,14,954363.37,1,Segment 1: High-value customers
+456,7,9,596700.56,2,Segment 2: Occasional buyers
+457,46,9,649033.99,2,Segment 2: Occasional buyers
+458,17,9,567699.98,2,Segment 2: Occasional buyers
+459,6,10,588827.06,2,Segment 2: Occasional buyers
+460,22,11,730644.8300000001,1,Segment 1: High-value customers
+461,202,8,603199.65,0,Segment 3: Discount seekers / At-risk
+462,4,6,363573.91,2,Segment 2: Occasional buyers
+463,36,11,776539.13,1,Segment 1: High-value customers
+464,302,12,647689.8200000001,0,Segment 3: Discount seekers / At-risk
+465,98,5,326478.09,2,Segment 2: Occasional buyers
+466,142,9,706093.4199999999,2,Segment 2: Occasional buyers
+467,32,13,610602.01,1,Segment 1: High-value customers
+468,13,11,613308.09,2,Segment 2: Occasional buyers
+469,87,8,404805.07,2,Segment 2: Occasional buyers
+470,143,11,791059.45,1,Segment 1: High-value customers
+471,27,11,684297.26,2,Segment 2: Occasional buyers
+472,51,16,986541.7,1,Segment 1: High-value customers
+473,68,6,453433.34,2,Segment 2: Occasional buyers
+474,48,9,356733.03,2,Segment 2: Occasional buyers
+475,19,10,762743.79,2,Segment 2: Occasional buyers
+476,19,7,339695.11,2,Segment 2: Occasional buyers
+477,27,4,148944.65,2,Segment 2: Occasional buyers
+478,468,9,682971.77,0,Segment 3: Discount seekers / At-risk
+479,6,4,350955.08,2,Segment 2: Occasional buyers
+480,101,8,567771.35,2,Segment 2: Occasional buyers
+481,46,4,288265.16000000003,2,Segment 2: Occasional buyers
+482,262,5,401380.92,0,Segment 3: Discount seekers / At-risk
+483,105,8,372124.69,2,Segment 2: Occasional buyers
+484,88,9,509601.97,2,Segment 2: Occasional buyers
+485,15,10,442503.08,2,Segment 2: Occasional buyers
+486,543,4,241420.74,0,Segment 3: Discount seekers / At-risk
+487,83,16,1042994.66,1,Segment 1: High-value customers
+488,2,16,1109643.41,1,Segment 1: High-value customers
+489,103,12,1002784.39,1,Segment 1: High-value customers
+490,268,6,361993.17,0,Segment 3: Discount seekers / At-risk
+491,42,13,735860.62,1,Segment 1: High-value customers
+492,50,13,650871.33,1,Segment 1: High-value customers
+493,66,10,701571.6,2,Segment 2: Occasional buyers
+494,40,14,1011829.31,1,Segment 1: High-value customers
+495,84,8,586450.21,2,Segment 2: Occasional buyers
+496,141,6,235275.66,0,Segment 3: Discount seekers / At-risk
+497,69,17,1055690.77,1,Segment 1: High-value customers
+498,9,13,939522.66,1,Segment 1: High-value customers
+499,5,6,425397.35,2,Segment 2: Occasional buyers
+500,32,9,753349.37,2,Segment 2: Occasional buyers

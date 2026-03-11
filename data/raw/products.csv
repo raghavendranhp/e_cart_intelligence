@@ -1,0 +1,201 @@
+product_id,product_name,category,brand,price
+1,Monitor,Electronics,Lenovo,35874.74
+2,Smartwatch,Electronics,Sony,10768.44
+3,Smartphone,Electronics,Adidas,12659.87
+4,Smartphone,Electronics,Apple,33499.09
+5,Monitor,Electronics,Nike,34633.89
+6,Camera,Electronics,Puma,23912.13
+7,Smartwatch,Electronics,Dell,35502.29
+8,Smartwatch,Electronics,Lenovo,27779.13
+9,Headphones,Electronics,LG,29687.05
+10,Tablet,Electronics,Apple,11225.38
+11,Smartphone,Electronics,Apple,13520.19
+12,Monitor,Electronics,HP,11445.59
+13,Tablet,Electronics,Nike,14325.56
+14,Monitor,Electronics,Puma,19496.93
+15,Laptop,Electronics,Lenovo,9064.54
+16,Smartwatch,Electronics,Nike,40374.55
+17,Headphones,Electronics,Samsung,44684.78
+18,Bluetooth Speaker,Electronics,Lenovo,17529.3
+19,Monitor,Electronics,Samsung,20328.91
+20,Headphones,Electronics,LG,11156.79
+21,Headphones,Electronics,Dell,10465.13
+22,Camera,Electronics,HP,47039.56
+23,Tablet,Electronics,Apple,23068.04
+24,Camera,Electronics,Nike,21495.87
+25,Monitor,Electronics,HP,14846.98
+26,Smartphone,Electronics,LG,18249.51
+27,Bluetooth Speaker,Electronics,Puma,33796.71
+28,Smartwatch,Electronics,Puma,20169.45
+29,Tablet,Electronics,Apple,16735.59
+30,Headphones,Electronics,Puma,47127.8
+31,Camera,Electronics,Sony,909.46
+32,Smartphone,Electronics,Sony,25541.85
+33,Smartphone,Electronics,Puma,21335.26
+34,Smartwatch,Electronics,Dell,20491.1
+35,Tablet,Electronics,Sony,25828.83
+36,Headphones,Electronics,Samsung,46303.13
+37,Bluetooth Speaker,Electronics,Adidas,30320.62
+38,Smartphone,Electronics,Apple,37271.58
+39,Smartwatch,Electronics,Apple,4340.87
+40,Smartphone,Electronics,Nike,34957.67
+41,Shirt,Clothing,Nike,22332.9
+42,Shorts,Clothing,Nike,21767.78
+43,Jeans,Clothing,LG,25474.84
+44,Jacket,Clothing,Adidas,16003.14
+45,Jeans,Clothing,HP,8386.86
+46,Jeans,Clothing,Apple,3029.41
+47,Shorts,Clothing,Puma,9911.43
+48,Sweater,Clothing,Puma,14527.35
+49,Sweater,Clothing,LG,18278.01
+50,Sweater,Clothing,Apple,30272.36
+51,T-Shirt,Clothing,Dell,35505.4
+52,Hoodie,Clothing,Dell,23149.7
+53,Shorts,Clothing,Lenovo,28745.8
+54,T-Shirt,Clothing,Adidas,24401.89
+55,T-Shirt,Clothing,Lenovo,23445.79
+56,Jacket,Clothing,Nike,11709.57
+57,Sweater,Clothing,HP,37916.26
+58,T-Shirt,Clothing,Nike,37801.28
+59,Shorts,Clothing,HP,2838.54
+60,Sweater,Clothing,Puma,13692.4
+61,Shirt,Clothing,Lenovo,37644.85
+62,Jacket,Clothing,Nike,49281.23
+63,Shirt,Clothing,Samsung,2333.65
+64,Jeans,Clothing,Lenovo,48140.89
+65,Jeans,Clothing,Sony,43578.1
+66,Shorts,Clothing,Nike,16352.66
+67,T-Shirt,Clothing,Puma,39892.0
+68,Jeans,Clothing,Dell,11846.59
+69,Jeans,Clothing,Dell,16915.44
+70,T-Shirt,Clothing,Puma,13940.1
+71,Jeans,Clothing,Nike,36183.12
+72,Sweater,Clothing,HP,17728.52
+73,Sweater,Clothing,HP,36336.33
+74,Sweater,Clothing,HP,29436.05
+75,T-Shirt,Clothing,Sony,42362.54
+76,Jacket,Clothing,Dell,29103.82
+77,T-Shirt,Clothing,Nike,30955.64
+78,Shirt,Clothing,Samsung,37627.72
+79,T-Shirt,Clothing,Samsung,42305.41
+80,Hoodie,Clothing,HP,21664.92
+81,AI Basics,Books,LG,39270.65
+82,AI Basics,Books,Samsung,13843.21
+83,Deep Learning Guide,Books,Apple,19462.1
+84,Deep Learning Guide,Books,HP,23204.57
+85,Machine Learning Book,Books,Apple,11104.62
+86,Data Science Guide,Books,Lenovo,37619.67
+87,Deep Learning Guide,Books,Apple,37139.15
+88,Machine Learning Book,Books,Dell,32087.87
+89,Python Programming,Books,LG,6426.26
+90,Data Science Guide,Books,HP,46114.33
+91,Data Science Guide,Books,Lenovo,24402.61
+92,AI Basics,Books,Adidas,29962.12
+93,Deep Learning Guide,Books,Apple,47048.65
+94,Python Programming,Books,Apple,26452.3
+95,Python Programming,Books,Sony,15976.36
+96,AI Basics,Books,Sony,25320.0
+97,Machine Learning Book,Books,Puma,19817.7
+98,Machine Learning Book,Books,Samsung,30702.78
+99,AI Basics,Books,Samsung,29121.27
+100,Python Programming,Books,LG,32767.09
+101,AI Basics,Books,Nike,29729.2
+102,Data Science Guide,Books,LG,20368.16
+103,Deep Learning Guide,Books,LG,17860.71
+104,Python Programming,Books,Adidas,43698.91
+105,Data Science Guide,Books,Apple,24591.53
+106,AI Basics,Books,Samsung,33540.61
+107,Data Science Guide,Books,Dell,35564.93
+108,Python Programming,Books,Puma,49997.95
+109,AI Basics,Books,Apple,17939.29
+110,Python Programming,Books,Nike,11579.71
+111,AI Basics,Books,Sony,10065.84
+112,Python Programming,Books,Puma,30867.44
+113,Machine Learning Book,Books,Dell,38789.4
+114,Python Programming,Books,Adidas,847.67
+115,Machine Learning Book,Books,LG,18231.73
+116,Deep Learning Guide,Books,Adidas,32949.05
+117,Python Programming,Books,Puma,48693.28
+118,Machine Learning Book,Books,Dell,9850.54
+119,Deep Learning Guide,Books,HP,40727.15
+120,Data Science Guide,Books,Nike,23699.38
+121,Sofa,Home,HP,5330.7
+122,Lamp,Home,Adidas,41882.78
+123,Lamp,Home,Lenovo,10692.39
+124,Sofa,Home,Samsung,3834.32
+125,Sofa,Home,Dell,45449.8
+126,Dining Table,Home,LG,28351.39
+127,Dining Table,Home,Dell,26589.21
+128,Sofa,Home,HP,1786.25
+129,Fan,Home,Puma,44574.62
+130,Sofa,Home,LG,828.97
+131,Fan,Home,Lenovo,21492.81
+132,Chair,Home,Adidas,6457.48
+133,Lamp,Home,HP,30824.22
+134,Fan,Home,Samsung,12292.9
+135,Chair,Home,Puma,8398.31
+136,Sofa,Home,Lenovo,21751.86
+137,Fan,Home,LG,15526.36
+138,Chair,Home,Sony,25394.36
+139,Dining Table,Home,HP,7751.39
+140,Sofa,Home,Adidas,38289.45
+141,Chair,Home,Apple,28710.69
+142,Lamp,Home,LG,30317.77
+143,Lamp,Home,HP,49172.01
+144,Fan,Home,Lenovo,10922.41
+145,Dining Table,Home,Puma,28611.67
+146,Dining Table,Home,Samsung,46628.26
+147,Fan,Home,Apple,9831.87
+148,Lamp,Home,Apple,33995.84
+149,Lamp,Home,Nike,19581.38
+150,Fan,Home,Sony,1567.65
+151,Chair,Home,LG,25005.43
+152,Bed,Home,LG,3103.42
+153,Sofa,Home,HP,48051.15
+154,Fan,Home,Sony,33150.08
+155,Sofa,Home,Dell,45027.07
+156,Sofa,Home,Sony,7498.39
+157,Sofa,Home,Sony,39212.09
+158,Fan,Home,Apple,26188.2
+159,Sofa,Home,Adidas,25072.52
+160,Dining Table,Home,Puma,40805.88
+161,Football,Sports,Adidas,48080.87
+162,Tennis Ball,Sports,Samsung,24345.14
+163,Gym Gloves,Sports,Adidas,21747.81
+164,Tennis Ball,Sports,Samsung,39507.98
+165,Football,Sports,LG,33731.27
+166,Football,Sports,Dell,44522.5
+167,Badminton Racket,Sports,Dell,6885.85
+168,Badminton Racket,Sports,HP,35939.41
+169,Yoga Mat,Sports,Nike,6540.43
+170,Gym Gloves,Sports,Puma,1871.07
+171,Gym Gloves,Sports,Samsung,49759.52
+172,Cricket Bat,Sports,Adidas,14019.44
+173,Football,Sports,Apple,41557.45
+174,Yoga Mat,Sports,LG,15588.1
+175,Yoga Mat,Sports,Adidas,30139.66
+176,Cricket Bat,Sports,Puma,30746.54
+177,Tennis Ball,Sports,Puma,10761.0
+178,Badminton Racket,Sports,Nike,14119.08
+179,Gym Gloves,Sports,Samsung,29775.81
+180,Badminton Racket,Sports,Nike,15496.64
+181,Cricket Bat,Sports,Apple,13731.77
+182,Tennis Ball,Sports,LG,24369.59
+183,Tennis Ball,Sports,Apple,26651.11
+184,Football,Sports,Puma,6240.34
+185,Cricket Bat,Sports,Apple,39634.59
+186,Yoga Mat,Sports,Adidas,29111.21
+187,Yoga Mat,Sports,Samsung,35448.76
+188,Cricket Bat,Sports,Apple,29983.34
+189,Badminton Racket,Sports,Adidas,35816.1
+190,Football,Sports,Samsung,18144.51
+191,Tennis Ball,Sports,Dell,46034.46
+192,Badminton Racket,Sports,Nike,30844.43
+193,Yoga Mat,Sports,Nike,34179.23
+194,Yoga Mat,Sports,Apple,20325.75
+195,Badminton Racket,Sports,Samsung,12497.43
+196,Yoga Mat,Sports,HP,31623.78
+197,Cricket Bat,Sports,Apple,41035.53
+198,Yoga Mat,Sports,Sony,24557.65
+199,Football,Sports,Puma,6648.31
+200,Gym Gloves,Sports,Dell,31417.63

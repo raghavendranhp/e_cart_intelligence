@@ -1,0 +1,18 @@
+#virtual environment
+ecart_venv/
+venv/
+env/
+
+#python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+#jupyter notebook checkpoints and temporary files
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+#local environment variables
+.env
